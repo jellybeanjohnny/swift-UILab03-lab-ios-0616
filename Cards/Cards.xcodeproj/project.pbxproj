@@ -22,6 +22,7 @@
 		B7262DB11D176C34009620C4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B7262DB41D176C34009620C4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B7262DB61D176C34009620C4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C9FBC2C41D2FFF41001DE010 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +57,7 @@
 			children = (
 				B7262DAA1D176C34009620C4 /* AppDelegate.swift */,
 				B7262DAC1D176C34009620C4 /* ViewController.swift */,
+				C9FBC2C41D2FFF41001DE010 /* MyPlayground.playground */,
 				B7262DAE1D176C34009620C4 /* Main.storyboard */,
 				B7262DB11D176C34009620C4 /* Assets.xcassets */,
 				B7262DB31D176C34009620C4 /* LaunchScreen.storyboard */,
@@ -287,6 +289,7 @@
 				B7262DBB1D176C34009620C4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
